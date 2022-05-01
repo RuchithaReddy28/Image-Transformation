@@ -33,7 +33,7 @@ Display all the Transformed images and end the program.
 ## Program:
 ```python
 Developed By: Akkireddy.Ruchitha Reddy
-Register Number:212221240004
+Register Number:212221230004
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
